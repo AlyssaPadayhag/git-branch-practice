@@ -1,3 +1,8 @@
 "Red Letters" by Crowder
+<<<<<<< HEAD
+"Last Hope" by Paramore
+"Love Me Tender" by Elvis Presley
+=======
 "Love me Tender" by Elvis Presley
 "Last Hope" by Paramore
+>>>>>>> be797475f995b8cf648e87dfd05953bf72064cc1
